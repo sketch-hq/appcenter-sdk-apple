@@ -3696,7 +3696,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 049BC8291ECE3A5A00FB6719 /* macOS.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
 			};
 			name = Debug;
 		};
@@ -3704,7 +3703,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 049BC8291ECE3A5A00FB6719 /* macOS.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
 			};
 			name = Release;
 		};
